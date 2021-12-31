@@ -1,0 +1,31 @@
+{
+  "AdsSettings": [
+    {
+      "Id": 3,
+      "AdUsed": "3"
+    }
+  ],
+  "AdsDatas": [
+    {
+      "Id": 1,
+      "AppId": "ca-app-pub-2911564791276087~4421316304",
+      "BannerId": "ca-app-pub-2911564791276087/3108234639",
+      "InterstitialId": "ca-app-pub-2911564791276087/9482071295",
+      "RewardId": ""
+    },
+    {
+      "Id": 2,
+      "AppId": "367169587614994",
+      "BannerId": "367169587614994_367178547614098",
+      "InterstitialId": "367169587614994_367174000947886",
+      "RewardId": ""
+    },
+    {
+      "Id": 3,
+      "AppId": "4000257",
+      "BannerId": "o",
+      "InterstitialId": "k",
+      "RewardId": "rewardedVideo"
+    }
+  ]
+}
