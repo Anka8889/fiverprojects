@@ -1,8 +1,8 @@
 {
   "AdsSettings": [
     {
-      "Id": 1,
-      "AdUsed": "1"
+      "Id": 3,
+      "AdUsed": "3"
     }
   ],
   "AdsDatas": [
@@ -22,9 +22,9 @@
     },
     {
       "Id": 3,
-      "AppId": "4000257",
-      "BannerId": "o",
-      "InterstitialId": "k",
+      "AppId": "3854227",
+      "BannerId": "",
+      "InterstitialId": "mino",
       "RewardId": "rewardedVideo"
     }
   ]
